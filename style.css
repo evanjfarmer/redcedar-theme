@@ -927,9 +927,11 @@ object {
 
 /* Evan's Custom Changes*/
 
-
-#page     {
-	max-width: 1000px;
+#primary, header {
+	max-width: 960px;
+	margin: 0 auto;
+}
+#page, #content .soliloquy-container   {
     margin: 0 auto;
 }
 .site-branding {
@@ -944,5 +946,25 @@ object {
 	letter-spacing: -1px;
 	padding: 0.7rem .5rem;
 }
-
+.center {
+	text-align: center;
+}
+body .button {
+	background: rgb(130, 113, 96);
+}
+body h3, body h4 {
+	color: rgb(130, 113, 96);
+}
+h3 {
+	text-align: center;
+}
+ul.products img {
+	border-radius: 50%;
+}
+body h5, body h6 {
+	color: white;
+}
+footer {
+	background-image: url('http://www.redcedarbirth.dev/wp-content/uploads/2016/01/footer.jpg');
+}
 
