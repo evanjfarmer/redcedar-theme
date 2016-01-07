@@ -924,3 +924,25 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+/* Evan's Custom Changes*/
+
+
+#page     {
+	max-width: 1000px;
+    margin: 0 auto;
+}
+.site-branding {
+	max-width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 1em;
+}
+#site-navigation a {
+	color: rgb(130, 113, 96);
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	padding: 0.7rem .5rem;
+}
+
+
