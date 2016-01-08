@@ -32,7 +32,7 @@
 				<h6><strong>Stay in the loop across Facebook and Instagram.</strong></h6><br>
 			Copyright &copy; <?php echo date ('Y');?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Website %1$s by %2$s.', 'redcedar-theme' ), 'built by', '<a href="http://evanjfarmer.com" rel="designer">evanjfarmer webdev</a>' ); ?>
+			<?php printf( esc_html__( 'Website %1$s by %2$s.', 'redcedar-theme' ), 'built', '<a href="http://evanjfarmer.com" rel="designer">evanjfarmer webdev</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

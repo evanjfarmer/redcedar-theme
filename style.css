@@ -989,5 +989,9 @@ footer {
 .fa:hover {
     color: #f38630;
 }
+.woocommerce ul.products li.product a img {
+	padding-right: 1em;
+}
+
 
 
