@@ -10,38 +10,39 @@
 ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
-	<div class="entry-content">
-		<div class="row center">
-			<h3>SERVICES</h3>
-  <div class="small-2 large-4 columns">
-  	<h4>Midwifery Services</h4>
-  	<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
-  	<a href="#" class="button">LEARN MORE</a>
-  </div>
-  <div class="small-4 large-4 columns">
-  	<h4>Doula Services</h4>
-  	<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
-  	<a href="#" class="button">LEARN MORE</a>
-  </div>
-  <div class="small-6 large-4 columns">
-  	<h4>Placenta Encapsulation</h4>
-  	<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
-  	<a href="#" class="button">LEARN MORE</a>
-  </div>
+<div class="entry-content">
+	<div class="row center">
+  		<div class="large-6 columns">
+  			<h3>MIDWIFERY SERVICES</h3>
+  		</div>
+  		<div class="large-6 columns">
+  			<h3>DOULA SERVICES</h3>
+  		</div>
 </div>
 <hr />
 <h3>BOTANICALS SHOP</h3>
-<ul class="products">
-	<?php
-	echo do_shortcode( '[recent_products per_page="3" columns="3"]' );
-	?>
-</ul><!--/.products-->
+	<ul class="products">
+		<?php
+		echo do_shortcode( '[recent_products per_page="3" columns="3"]' );
+		?>
+	</ul><!--/.products-->
 <hr />
-		<div class="row center">
-  <div class="large-6 columns">
-  	<h3>BE A BIRTH SPONSOR</h3></div>
-  <div class="large-6 columns">
-  	<h3>BIRTH CHAT</h3></div>
+<div class="row center">
+	<div class="small-2 large-4 columns">
+		<h4>Midwifery Services</h4>
+			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
+			<a href="#" class="button">LEARN MORE</a>
+	</div>
+	<div class="small-4 large-4 columns">
+		<h4>Doula Services</h4>
+			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
+			<a href="#" class="button">LEARN MORE</a>
+	</div>
+	<div class="small-6 large-4 columns">
+		<h4>Placenta Encapsulation</h4>
+		<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
+		<a href="#" class="button">LEARN MORE</a>
+	</div>
 <hr/>
 <div class="row">
 		<p>"Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere."--Laurie, East Lansing</p>

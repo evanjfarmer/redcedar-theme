@@ -24,6 +24,10 @@
 					Fax# (810)222-1209</h6>
 
 				<h5><strong>Follow us on</strong></h5>
+					<div id="icons">
+					  <i class="fa fa-facebook"></i>
+					  <i class="fa fa-instagram"></i>
+					</div>
 
 				<h6>Stay in the loop across Facebook, Twitter, Instagram and Pinterest.</h6>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'redcedar-theme' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'redcedar-theme' ), 'WordPress' ); ?></a>
