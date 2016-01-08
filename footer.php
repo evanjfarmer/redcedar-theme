@@ -25,14 +25,14 @@
 
 				<h5><strong>Follow us on</strong></h5>
 					<div id="icons">
-					  <i class="fa fa-facebook"></i>
-					  <i class="fa fa-instagram"></i>
-					</div>
+					  <a href ="https://www.facebook.com/redcedarbirthandbotanicals/"><i class="fa fa-facebook fa-2x"></i></a>
+					  <a href ="http://www.instagram.com/#"><i class="fa fa-instagram fa-2x"></i></a>
+					</div><br>
 
-				<h6>Stay in the loop across Facebook, Twitter, Instagram and Pinterest.</h6>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'redcedar-theme' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'redcedar-theme' ), 'WordPress' ); ?></a>
+				<h6><strong>Stay in the loop across Facebook and Instagram.</strong></h6><br>
+			Copyright &copy; <?php echo date ('Y');?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'redcedar-theme' ), 'redcedar-theme', '<a href="http://evanjfarmer.com" rel="designer">Evan J. Farmer</a>' ); ?>
+			<?php printf( esc_html__( 'Website %1$s by %2$s.', 'redcedar-theme' ), 'built by', '<a href="http://evanjfarmer.com" rel="designer">evanjfarmer webdev</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
