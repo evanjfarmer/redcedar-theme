@@ -959,7 +959,10 @@ h3 {
 	text-align: center;
 }
 ul.products img {
-	border-radius: 50%;
+	border-radius: 75%;
+    transform: scale(0.75, 0.75);
+-ms-transform: scale(0.75, 0.75);
+-webkit-transform: scale(0.75, 0.75);
 }
 body h5 {
 	color: white;
