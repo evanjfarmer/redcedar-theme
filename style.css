@@ -965,11 +965,11 @@ ul.products img {
 -ms-transform: scale(0.75, 0.75);
 -webkit-transform: scale(0.75, 0.75);
 }
-body h5 {
+.site-info h5 {
 	color: white;
-	padding-top: 2em;
+	padding-top: 1em;
 }
-body h6 {
+.site-info h6 {
 	color: white;
 }
 footer {
@@ -1000,6 +1000,7 @@ h1.entry-title,
 h1.page-title {
 	font-size: 2rem;
     text-transform: uppercase;
+    padding: 1em;
 }
 
 

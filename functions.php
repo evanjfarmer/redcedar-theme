@@ -116,6 +116,7 @@ add_action( 'widgets_init', 'redcedar_theme_widgets_init' );
 function redcedar_theme_scripts() {
 	wp_enqueue_style( 'redcedar-theme-style', get_stylesheet_uri() );
 
+
 	/* Add Foundation CSS */
 	wp_enqueue_style( 'foundation-normalize', get_stylesheet_directory_uri() . '/foundation/css/normalize.css' );
 	wp_enqueue_style( 'foundation', get_stylesheet_directory_uri() . '/foundation/css/foundation.css' );
@@ -138,7 +139,19 @@ function redcedar_theme_scripts() {
 		wp_enqueue_script( 'comment-reply' );
 	}
 }
+
 add_action( 'wp_enqueue_scripts', 'redcedar_theme_scripts' );
+
+/*Add WooCommerce Custom Stylesheet*/
+function my_woo_style() {
+    wp_register_style( 'my-woocommerce', get_template_directory_uri() . '/woocommerce.css', null, 1.0, 'screen' );
+    wp_enqueue_script( 'my-woocommerce' );
+}
+ 
+add_action( 'wp_enqueue_scripts', 'my_woo_style' );
+
+/*Add WooCommerce Theme Support*/
+add_theme_support( 'woocommerce' );
 
 /**
  * Implement the Custom Header feature.
