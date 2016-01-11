@@ -1504,4 +1504,7 @@ body:not(.search-results) .twentysixteen .entry-summary {
 }
 /* Evan's Custom Changes*/
 
+#primary, header {
+    max-width: 960px;
+    margin: 0 auto;
 }
