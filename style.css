@@ -931,7 +931,8 @@ object {
 	max-width: 960px;
 	margin: 0 auto;
 }
-#page, #content .soliloquy-container   {
+#page, 
+#content .soliloquy-container   {
     margin: 0 auto;
 }
 .site-branding {
@@ -988,12 +989,17 @@ footer {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 .fa:hover {
     color: #f38630;
 }
 .woocommerce ul.products li.product a img {
 	padding-right: 1em;
+}
+/*Pages*/
+h1.entry-title,
+h1.page-title {
+	font-size: 2rem;
+    text-transform: uppercase;
 }
 
 
