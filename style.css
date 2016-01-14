@@ -992,9 +992,6 @@ footer {
 .fa:hover {
     color: #f38630;
 }
-.woocommerce ul.products li.product a img {
-	padding-right: 1em;
-}
 /*Pages*/
 h1.entry-title,
 h1.page-title {
@@ -1003,7 +1000,17 @@ h1.page-title {
     padding: 1em;
     text-align: center;
 }
-
-
+.woocommerce .products ul li, .woocommerce ul.products li {
+	text-align: center;
+}
+.woocommerce div.product div.images img {
+	width: 50%;
+	border-radius: 50%;
+	margin-top: 2em;
+    margin-left: 10em;
+}
+.woocommerce div.product .product_title {
+	margin-right: 13em;
+}
 
 

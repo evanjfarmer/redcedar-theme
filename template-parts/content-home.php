@@ -32,7 +32,7 @@
 	</ul><!--/.products-->
 <hr />
 <div class="row center">
-	<div class="small-2 large-4 columns">
+	<div class="small-4 large-4 columns">
 		<h4>Be a Birth Sponsor</h4>
 			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
 			<a href="#" class="button">LEARN MORE</a>
@@ -42,7 +42,7 @@
 			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
 			<a href="#" class="button">LEARN MORE</a>
 	</div>
-	<div class="small-6 large-4 columns">
+	<div class="small-4 large-4 columns">
 		<h4>Homebirth Meetup</h4>
 		<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
 		<a href="#" class="button">LEARN MORE</a>

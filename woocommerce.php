@@ -15,8 +15,6 @@
 get_header(); ?>
 <?php if ( function_exists( 'soliloquy' ) ) { soliloquy( '58' ); } ?>
 	<?php woocommerce_content(); ?>
-	<div class="row center">
-		<div class="small-2 large-4 columns">
 <?php
 get_sidebar();
 get_footer();
