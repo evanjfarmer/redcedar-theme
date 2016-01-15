@@ -959,6 +959,9 @@ body h3, body h4 {
 h3 {
 	text-align: center;
 }
+body h3:hover {
+  color: #E89321;
+}
 ul.products img {
 	border-radius: 75%;
     transform: scale(0.75, 0.75);
