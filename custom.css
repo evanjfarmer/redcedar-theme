@@ -1,23 +1,22 @@
-/* NAV */
-.left-off-canvas-menu ul {
-  margin: 0; 
-}
-.left-off-canvas-menu li a {
-  display: block;
-  padding: 12px 10px;
-  border-bottom: 1px #545454 solid;
-  color: #fff; 
-}
 .menu li:hover {
-    background-color: #E89321;
+    background-color: #FFA500;
 }
 /*CONTENT*/
 .button:hover, .button:focus {
-    background: #E89321;
+    background: #FFA500;
 }
 /* MEDIA QUERIES */
 @media only screen and (max-width: 40em) {
   #wpadminbar {
     position: fixed;
 }
-
+button.menu-toggle {
+    display: block;
+    text-align: right;
+    color: black;
+    text-transform: uppercase;
+    padding: .5em .5em .5em .5em;
+}
+button.menu-toggle:hover {
+    color: orange;
+}
