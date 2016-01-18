@@ -947,6 +947,10 @@ object {
 	letter-spacing: -1px;
 	padding: 0.7rem .5rem;
 }
+.main-navigation ul li{
+	display: inline-block;
+	text-align: center;
+}
 .center {
 	text-align: center;
 }
@@ -1014,6 +1018,18 @@ h1.page-title {
 }
 .woocommerce div.product .product_title {
 	margin-right: 13em;
+}
+.doula.hero {
+	background-image: url('http://littleappledoulas.com/wp-content/uploads/2015/05/labor-support-doula.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    height: 500px;
+    z-index: 0;
+    max-width: 1400px;
 }
 
 
