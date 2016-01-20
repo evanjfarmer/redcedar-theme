@@ -13,8 +13,9 @@
  */
 
 get_header(); ?>
-<?php if ( function_exists( 'soliloquy' ) ) { soliloquy( '58' ); } ?>
-	<?php woocommerce_content(); ?>
+
+			<?php woocommerce_content(); ?>
+			
 <?php
 get_sidebar();
 get_footer();

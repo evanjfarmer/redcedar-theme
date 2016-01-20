@@ -11,20 +11,15 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 <div class="entry-content">
-	<div class="container">
-	<div class="row">
-		<div class="doula hero" "large-6 columns">
-		<div class="large-6 large-offset-6 columns"><br>
-	        <h2>Labor Support Doulas</h2>
-	        <p><h4>During your labor and birth, experience the caring and compassionate support of a trained labor doula.</h4></p>
-	       	<p><a class="button button-primary" href="/contact">Contact Us Today</a></p>
-		</div>
-	</div><br>
-	<hr />
-	<?php
-			echo do_shortcode( '[ic_do_testimonials]');
-			?>
-	<hr />
+	<div class="container-fluid">
+		<div class="row">
+			<div class="doula hero" "small-12 large-12 columns">
+				<div class="small-6 small-offset-6 columns"><br>
+	       		<h2>Labor Support Doulas</h2>
+	       		<p><h4>During your labor and birth, experience the caring and compassionate support of a trained labor doula.</h4></p>
+	     		<p><a class="button button-primary" href="/contact">Contact Us Today</a></p>
+			</div>
+		</div><br>
 	<div class="row">
   		<div class="large-6 columns">
   			<h4>Doula Services</h4>
