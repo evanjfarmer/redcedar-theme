@@ -1028,9 +1028,28 @@ h1.page-title {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    width: 100%;
+    border-radius: 1%;
+    width: 100% !important;
     height: 500px;
     z-index: 0;
+}
+.doulas {
+	padding: 80px;
+}
+.doula.services {
+	padding-left: 50px;
+}
+.doula.image {
+	text-align: right;
+}
+.doula.image img {
+	border-radius: 2%;
+}
+.button.success {
+	margin-right: 40px;
+}
+.button.secondary {
+	margin-left: 40px;
 }
 
 
