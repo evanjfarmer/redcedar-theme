@@ -42,10 +42,10 @@
   				<h5><strong><i>Bereavement Doula Support</i></strong></h5>The pain of losing a child, no matter what age, is unbearable. Your world comes to a crashing halt and no words can convey the pain and sorrow you are experiencing. Whether you have been told your baby will have a limited life expectancy, will be stillborn, or you have experienced a miscarriage, our trained and compassionate doulas are here to walk through this with you. Give yourself the space and time to grieve and allow us to care for you during this profound loss. Reach out to us, or direct a family member to do so for you, and a trained bereavement doula with join you at any stage. This service is funded by donations, <a href="#">click here</a> to donate or learn more about our programs.
   		</div>		
   		<div class="doula image small-12 large-5 large-offset-1 columns">
-	  			<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/doula1.jpg" alt="abide"></div><br>
-	  			<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/doula2.jpg" alt="joie"></div><br>
-	  			<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/doula3.jpg" alt="misha"></div><br>
-	  			<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/doula-4.jpg" alt="cait"></div><br>
+	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula1.jpg" alt="Man with Baby"></div><br>
+	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula2.jpg" alt="People Gathered Around Mother"></div><br>
+	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula3.jpg" alt="Man Looking at Baby"></div><br>
+	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula-4.jpg" alt="Baby Close Up"></div><br>
 	  	</div>
   	</div><br>
   	<div class="row">

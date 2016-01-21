@@ -946,7 +946,7 @@ object {
 	padding: 0.7rem .5rem;
 }
 .main-navigation ul {
-    max-width: 960px;
+    max-width: 750px;
     margin: 0 auto;
 }
 .main-navigation ul li{
@@ -982,7 +982,7 @@ ul.products img {
 	color: white;
 }
 footer {
-	background-image: url('http://www.redcedarbirth.dev/wp-content/uploads/2016/01/footer.jpg');
+	background-image: url('http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/footer.jpg');
 }
 .fa-2x {
 	padding-top: 10px;

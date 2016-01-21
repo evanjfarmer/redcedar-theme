@@ -17,7 +17,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="connie small-10 large-7 columns">
-					<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam6.jpg" alt="connie"></div><br>
+					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam6.jpg" alt="Connie Kissing Baby"></div><br>
 					</div>
 					<div class="quote small-12 large-3 columns end"><h3><i>“I have found that the assisting with the transition to motherhood and a person, newly earth side, is an honor so profound that it changes one’s perspective, permanently.”</i></h3><br>
 				</div>
@@ -27,7 +27,7 @@
 			<div class="row">
 				<div class="credentials small-12 large-12 columns"><strong>CONNIE PERKINS, CPM</strong><br><p>While living in an intentional community as a young adult, Connie  had the opportunity to serve in a woman’s shelter. Working and living alongside mothers and families who did not have adequate access to resources and support was the catalyst for her  passion for birth justice for all women. It was there that she solidified a desire to serve women, children and families during the most vulnerable and powerful times of life.</p><br><p>In 2007  Connie trained to become a birth doula and began serving street affected and homeless women in the Lansing area.</p><br>In 2009, just a few months after her own homebirth, Connie joined a busy midwifery practice as a student midwife.  After 4 years and attending nearly 150 births, she completed her training and certified with the National Association of Registered Midwives.<br></p>
 				</div>
-			<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam1.jpg" alt"weighing baby"></div><br>
+			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam1.jpg" alt"Weighing Baby"></div><br>
 			</div>
 		<div class="container-fluid">
 			<div class="row">
@@ -46,13 +46,13 @@
 		<div class="container-fluid">
 			<div class="row center">
 				<div class="connie1 small-12 medium-6 large-4 columns">
-					<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam5.jpg" alt "connie and baby"></div><br>
+					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam5.jpg" alt "Connie Talking to Baby"></div><br>
 				</div>
 				<div class="connie2 small-12 medium-6 large-4 columns">
-					<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam3.jpg" alt "connie and baby 2"></div><br>
+					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam3.jpg" alt "Connie Smiling at Baby"></div><br>
 				</div>
 				<div class="connie3 small-12 medium-6 large-4 columns">
-					<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam4.jpg" alt "connie and baby with finger"></div><br>
+					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam4.jpg" alt "Connie Clearing Baby's Mouth"></div><br>
 				</div>
 			</div>
 		</div>
@@ -68,7 +68,7 @@
 		<div class="container-fluid">
 			<div class="row center">
 				<div class="small-12 large-12 columns">
-					<div><img src="http://www.redcedarbirth.dev/wp-content/uploads/2016/01/meettheteam2-1.jpg" alt "birthing parents"></div>
+					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam2.jpg" alt "Birthing Parents"></div>
 				</div>
 			</div>
 		</div>
