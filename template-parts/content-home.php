@@ -11,18 +11,18 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 <div class="entry-content">
-	<div class="row center">
-  		<div class="large-6 columns">
+	<div class="row">
+  		<div class="home large-6 columns">
   			<a href="#"><h3>MIDWIFERY SERVICES</h3></a>
   			<p>Our home birth care is holistic and family centered. We promote active birthing, minimal interventions, and shared decision making throughout the childbearing year. We would love to sit down with you and talk about your plans</p>
   		</div>
-  		<div class="large-6 columns">
+  		<div class="home large-6 columns">
   			<a href="#"><h3>DOULA SERVICES</h3></a>
   			<p>It is our goal to provide each client with care that is respectful and centered around their choices and needs. Whether birthing at home or in the hospital, we are committed to providing you with evidence based information so that you can take lead in the decision making.</p>
   		</div>
   	</div>
 	<hr />
-	<a href="#"><h3>BOTANICALS SHOP</h3></a><br>
+	<a href="#"><h3 class="home">BOTANICALS SHOP</h3></a><br>
 		<ul class="products">
 			<?php
 			echo do_shortcode( '[recent_products per_page="3" columns="3"]' );

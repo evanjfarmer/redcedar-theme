@@ -959,13 +959,13 @@ object {
 body .button {
 	background: rgb(130, 113, 96);
 }
-body h3, body h4 {
+.home h3, body h4 {
 	color: rgb(130, 113, 96);
 }
-h3 {
+.home h3 {
 	text-align: center;
 }
-body h3:hover {
+.home h3:hover {
   color: #E89321;
 }
 ul.products img {
@@ -1007,7 +1007,7 @@ h1.page-title {
 	font-size: 2rem;
     text-transform: uppercase;
     padding: 1em;
-    text-align: center;
+    margin-left: 50px;
 }
 .woocommerce .products ul li, .woocommerce ul.products li {
 	text-align: center;
@@ -1037,19 +1037,27 @@ h1.page-title {
 	padding: 80px;
 }
 .doula.services {
-	padding-left: 50px;
+	padding-left: 100px;
 }
 .doula.image {
-	text-align: right;
+	text-align: center;
+	margin-top: 70px;
 }
 .doula.image img {
 	border-radius: 2%;
 }
 .button.success {
-	margin-right: 40px;
+	margin-right: 80px;
 }
-.button.secondary {
-	margin-left: 40px;
+.reduced {
+	margin-left: 10px;
+}
+.connie {
+	margin-left: 10px;
+}
+.quote {
+	text-align: left;
+	margin-top: 10px;
 }
 
 
