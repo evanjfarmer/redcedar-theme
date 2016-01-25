@@ -37,7 +37,7 @@
 						<li>Additional visits or Lactation Support are available a la carte. </li>
 					</ul>
 				</ul>
-				<center><a href="#" class="button success">Purchase Now</a><a href="#" class="button secondary">Contact Us</a></center>
+				<center><a href="#" class="button success">Purchase Now</a><a href="/contact" class="button secondary">Contact Us</a></center>
   				<hr />
   				<h5><strong><i>Bereavement Doula Support</i></strong></h5>The pain of losing a child, no matter what age, is unbearable. Your world comes to a crashing halt and no words can convey the pain and sorrow you are experiencing. Whether you have been told your baby will have a limited life expectancy, will be stillborn, or you have experienced a miscarriage, our trained and compassionate doulas are here to walk through this with you. Give yourself the space and time to grieve and allow us to care for you during this profound loss. Reach out to us, or direct a family member to do so for you, and a trained bereavement doula with join you at any stage. This service is funded by donations, <a href="#">click here</a> to donate or learn more about our programs.
   		</div>		

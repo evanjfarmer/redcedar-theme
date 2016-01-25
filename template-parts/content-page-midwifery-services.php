@@ -12,7 +12,9 @@
 <?php if ( function_exists( 'soliloquy' ) ) { soliloquy( 'midwifery-services-slider', 'slug' ); }?>
 <div class="entry-content">
 	<div class="row">
-		<div class="small-12 columns"><strong>PRENATAL CARE</strong><br>Regular prenatal care includes monitoring the physical aspects of pregnancy as well as a time to learn about your changing body and the baby growing inside you. It is a time to get answers, discuss concerns, receive support, and prepare for giving birth. Partners and children are welcome and encouraged to participate in appointments.We value shared decision making and respect each family's right to make informed choices about the care they receive during pregnancy and birth. Making an informed choice allows families to take responsibility for decisions by considering all the options, risks and benefits. We support you making informed decisions by providing choices, information, and connecting you with resources.</div><br>
+		<div class="services small-12 columns">
+			<h4>Midwifery Services</h4><br>
+			<strong>PRENATAL CARE</strong><br>Regular prenatal care includes monitoring the physical aspects of pregnancy as well as a time to learn about your changing body and the baby growing inside you. It is a time to get answers, discuss concerns, receive support, and prepare for giving birth. Partners and children are welcome and encouraged to participate in appointments.We value shared decision making and respect each family's right to make informed choices about the care they receive during pregnancy and birth. Making an informed choice allows families to take responsibility for decisions by considering all the options, risks and benefits. We support you making informed decisions by providing choices, information, and connecting you with resources.</div><br>
 	</div>
 	&nbsp;
 	<div class="row">

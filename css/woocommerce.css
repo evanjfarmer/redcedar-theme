@@ -1503,5 +1503,8 @@ body:not(.search-results) .twentysixteen .entry-summary {
     color: inherit;
 }
 /* Evan's Custom Changes*/
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    float: left;
+    margin: 0 5.5% 9em;
 
 
