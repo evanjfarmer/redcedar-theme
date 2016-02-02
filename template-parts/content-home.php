@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying page content in page.php.
+ * Template part for displaying page content in home.php.
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
@@ -29,6 +29,7 @@
 				echo do_shortcode( '[recent_products per_page="3" columns="3"]' );
 				?>
 			</ul><!--/.products-->
+		</div>
 	<hr />
 	<div class="row center">
 		<div class="small-12 medium-6 large-4 columns">

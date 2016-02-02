@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying posts.
+ * Template part for page content in page-doul-services.php.
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
