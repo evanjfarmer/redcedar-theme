@@ -982,6 +982,9 @@ ul.products img {
 footer {
 	background-image: url('http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/footer.jpg');
 }
+p.padding {
+    padding-top: 2em;
+}
 .fa-2x {
 	padding-top: 10px;
     width: 50px;
@@ -1033,12 +1036,17 @@ h1.page-title {
 .doulas {
 	padding: 80px;
 }
+.doulas h2 {
+	color: white;
+}
+.doulas h4 {
+	color:;
+}
 .doula.services {
 	padding-left: 100px;
 }
 .doula.image {
 	text-align: center;
-	margin-top: 70px;
 }
 .doula.image img {
 	border-radius: 2%;
@@ -1062,5 +1070,9 @@ h1.page-title {
 .botanicals {
 	font-size: 115%;
 }
-
-
+img.tove {
+	float: right;
+}
+.students {
+	margin-top: 80px;
+}

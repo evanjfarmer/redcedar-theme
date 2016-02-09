@@ -12,22 +12,13 @@
 	<header class="entry-header">
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
-
+<?php if ( function_exists( 'soliloquy' ) ) { soliloquy( 'meet-the-team-slider', 'slug' ); }?>
 	<div class="entry-content">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="connie small-10 large-7 columns">
-					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam6.jpg" alt="Connie Kissing Baby"></div><br>
-					</div>
-					<div class="quote small-12 large-3 columns end"><h3><i>“I have found that the assisting with the transition to motherhood and a person, newly earth side, is an honor so profound that it changes one’s perspective, permanently.”</i></h3><br>
-				</div>
-			</div>
-		</div>
 		<div class="container-fluid">
 			<div class="row">
 				<div class="credentials small-12 large-12 columns"><strong>CONNIE PERKINS, CPM</strong><br><p>While living in an intentional community as a young adult, Connie  had the opportunity to serve in a woman’s shelter. Working and living alongside mothers and families who did not have adequate access to resources and support was the catalyst for her  passion for birth justice for all women. It was there that she solidified a desire to serve women, children and families during the most vulnerable and powerful times of life.</p><br><p>In 2007  Connie trained to become a birth doula and began serving street affected and homeless women in the Lansing area.</p><br>In 2009, just a few months after her own homebirth, Connie joined a busy midwifery practice as a student midwife.  After 4 years and attending nearly 150 births, she completed her training and certified with the National Association of Registered Midwives.<br></p>
 				</div>
-			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam1.jpg" alt"Weighing Baby"></div><br>
+			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/meettheteam1.jpg" alt"Weighing Baby"></div><br>
 			</div>
 		<div class="container-fluid">
 			<div class="row">
@@ -56,15 +47,23 @@
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="small-12 large-12 columns"
+			<p>Connie’s birth activism includes serving with the Michigan Midwives Association Board of Directors, and she is currently the Vice President. She has a deep personal commitment to listening to women and making sure they are respected and trusted. Connie sees her work as a midwife as participation in a radical movement back to honoring women’s bodies and their choices.  
+ 					She lives in Lansing in a tiny, hand-made, urban intentional community and homestead farm.</p><br>
+			</div>
+		</div>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="credentials small-12 large-12 columns">
-					<p>Connie’s birth activism includes serving with the Michigan Midwives Association Board of Directors, and she is currently the Vice President. She has a deep personal commitment to listening to women and making sure they are respected and trusted. Connie sees her work as a midwife as participation in a radical movement back to honoring women’s bodies and their choices.  
- 					She lives in Lansing in a tiny, hand-made, urban intentional community and homestead farm.</P><br>
- 					<p>At Red Cedar Birth we place a high value on hands on, clinic based learning and work with a variety of student midwives, doulas and interns. You will have plenty of opportunity to get to know the students who will be involved in your care.</p><br>
+				<div class="small-12 large-6 columns">
+					<div><img class="tove" src= "http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/meettheteam7.jpg" alt "Little Girl Tove"></div><br>
+				</div>
+				<div class="students small-12 large-6 columns">	
+ 					<h4>At Red Cedar Birth we place a high value on hands on, clinic based learning and work with a variety of student midwives, doulas and interns. You will have plenty of opportunity to get to know the students who will be involved in your care.</h4><br>
  				</div>	
 			</div>
 		</div>
+		&nbsp;
 		<div class="container-fluid">
 			<div class="row center">
 				<div class="small-12 large-12 columns">

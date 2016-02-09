@@ -24,7 +24,7 @@
 	<hr />
 	<a href="/botanicals"><h3 class="home">BOTANICALS SHOP</h3></a><br>
 		<div class="row">
-			<ul class="products small-12 large-12 columns">
+			<ul class="products small-10 large-12 columns">
 				<?php
 				echo do_shortcode( '[recent_products per_page="3" columns="3"]' );
 				?>

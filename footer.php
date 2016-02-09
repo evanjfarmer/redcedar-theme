@@ -16,7 +16,7 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<div class= "center">
-				<h5><strong>Red Cedar Birth & Botanicals</strong></h5>
+				<p class="padding"><a href="http://www.redcedarbirth.com"><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/whitelogo.png"></a></p>
 				<h6><strong>3333 Pennsylvania Ave.<br>
 					Lansing, MI 48910<br>
 					(517)614-7756<br>
