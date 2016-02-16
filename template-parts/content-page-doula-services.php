@@ -11,8 +11,12 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 <?php if ( function_exists( 'soliloquy' ) ) { soliloquy( 'doula-services-slider', 'slug' ); }?>
 <div class="entry-content">
-	<div class="row"><p class="padding>">"Connie was an amazing comfort to me as I had to struggle with some difficult decisions during my pregnancy. She gave me incredible information and ultimately empowered me to make the best decision for me and my baby. Her presence before and after my sons’s birth helped me focus on the joy of our journey together." <br>-jenn, lansing</p>
-	</div>
+		<div class="row">
+	  		<?php 
+	  		echo do_shortcode( '[slide-anything id="171"]' );
+	  		?>
+			</div>
+		</div>	
 	&nbsp;
 	<div class="container-fluid">
 		<div class="row">

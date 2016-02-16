@@ -9,7 +9,6 @@
 
 ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-
 <div class="entry-content">
 	<div class="row">
   		<div class="home large-6 columns">
@@ -34,7 +33,7 @@
 	<div class="row center">
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Be a Birth Sponsor</h4>
-				<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
+				<p>Red Cedar Birth is excited to introduce our new Birth Sponsorship Program.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p>
 				<a href="#" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12  medium-6 large-4 columns">
@@ -47,12 +46,14 @@
 			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
 			<a href="#" class="button">LEARN MORE</a><br>
 		</div>
-	<hr>
-	<div class="row medium-collapse large-collapse">
-		<div class="small-12 columns">
-			<p>"Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere."--Laurie, East Lansing</p>
-		</div>
-	</div>	
+	</div>
+	&nbsp;	
+		<div class="row">
+	  		<?php 
+	  		echo do_shortcode( '[slide-anything id="169"]' );
+	  		?>
+			</div>
+		</div>	
 </div><!-- .entry-content -->
 
 	<footer class="entry-footer">

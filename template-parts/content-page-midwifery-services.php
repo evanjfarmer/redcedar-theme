@@ -30,11 +30,12 @@
 			&nbsp;
 			<img class="midwifery aligncenter wp-image-60 size-full" src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/midwifery2.jpg" alt="Woman with Baby in Birthing Tub" width="900" height="600" />
 			<strong>WATERBIRTH</strong><br>If you wish, you may choose a waterbirth. The warmth and weightlessness of laboring in a birth pool helps with relaxation and comfort during labor. Waterbirth can greatly ease the discomforts of labor and create a gentle transition for the baby coming from your womb into the world. Red Cedar Birth offers Birth pool rental for our clients.
-			&nbsp;
-			<hr />
-			"Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere."--Laurie, East Lansing
-			<hr />
 		</div>
+			&nbsp;	
+	<div class="row">
+	  		<?php 
+	  		echo do_shortcode( '[slide-anything id="170"]' );
+	  		?>
 	</div>
 </div><!-- .entry-content -->
 
