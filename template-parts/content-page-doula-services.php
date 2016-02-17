@@ -22,9 +22,12 @@
 		<div class="row">
 			<div class="doula hero" "small-12 large-12 columns">
 				<div class="doulas small-12 large-6 large-offset-6 columns"><br>
-	       		<h2>Labor Support Doulas</h2>
-	       		<p><h4>During your labor and birth, experience the caring and compassionate support of a trained labor doula.</h4></p>
-	     		<p><a class="button button-primary" href="/contact">Contact Us Today</a></p>
+			       	<h2><strong>Labor Support Doulas</strong></h2>
+			       	<div class="transbox">
+			       		<p><h4><strong>During your labor and birth, experience the caring and compassionate support of a trained labor doula.</strong></h4></p>
+			     		<p><a class="button button-primary" href="/contact">Contact Us Today</a></p>
+					</div>
+				</div>
 			</div>
 		</div><br>
 	<div class="row">

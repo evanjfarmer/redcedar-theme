@@ -1038,18 +1038,32 @@ h1.page-title {
 }
 .doulas h2 {
 	color: white;
+	text-shadow:2px 2px #000000;
 }
 .doulas h4 {
 	color:;
 }
 .doula.services {
-	padding-left: 100px;
+	padding-left: 25px;
 }
 .doula.image {
 	text-align: center;
 }
 .doula.image img {
 	border-radius: 2%;
+}
+.transbox {
+  margin: 20px;
+  padding-left: 20px;
+  border-radius: 2%;
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
 }
 .button.success {
 	margin-right: 80px;
