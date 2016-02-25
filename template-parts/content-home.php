@@ -33,17 +33,17 @@
 	<div class="row center">
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Be a Birth Sponsor</h4>
-				<p>Red Cedar Birth is excited to introduce our new Birth Sponsorship Program.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p>
-				<a href="#" class="button">LEARN MORE</a><br>
+				<p>Red Cedar Birth is excited to introduce our new <i>Birth Sponsorship Program</i>.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p>
+				<a href="/become-a-birth-sponsor" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12  medium-6 large-4 columns">
 			<h4>Birth Chat</h4>
-				<p>Birth Chat is a group for women interested in an un-medicated birth. We’ll discuss physical, emotional, cultural, and spiritual aspects of birthing and build resources for achieving your goals. 1st Monday each month (6:30-8pm) at the Willow Tree Family Center</p>
+				<p><i>Birth Chat</i> is a group for women interested in an un-medicated birth. We’ll discuss physical, emotional, cultural, and spiritual aspects of birthing and build resources for achieving your goals. 1st Monday each month (6:30-8pm) at the Willow Tree Family Center</p>
 				<a href="https://www.facebook.com/groups/BirthChat/" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Homebirth Meetup</h4>
-			<p>Home birth Meet Up is a family friendly gathering to build community around home birth-ers.  This gathering is for ANYONE- those considering home birth, planning home birth, or who have birthed at home.  third sunday of each month (2-5pm) at the Willow Tree Family Center</p>
+			<p><i>Homebirth Meet Up</i> is a family friendly gathering to build community around home birth-ers.  This gathering is for ANYONE- those considering home birth, planning home birth, or who have birthed at home.  Third Sunday of each month (2-5pm) at the Willow Tree Family Center</p>
 			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" class="button">LEARN MORE</a><br>
 		</div>
 	</div>

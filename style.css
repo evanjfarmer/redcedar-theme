@@ -938,10 +938,10 @@ object {
 	margin: 0 auto;
 	text-align: center;
 	padding-top: 1em;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 }
 #site-navigation a {
-	color: rgb(130, 113, 96);
+	color: #8c8172;
 	text-transform: uppercase;
 	letter-spacing: -1px;
 	padding: 0.7rem .5rem;
@@ -1099,6 +1099,6 @@ a {
 	color: #8c8172;
 }
 a:visited {
-	color: #666666;
+	color: #E9E7E4;
 }
 
