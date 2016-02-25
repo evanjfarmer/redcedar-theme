@@ -18,6 +18,7 @@
 			<div class= "center">
 				<p class="padding"><a href="http://www.redcedarbirth.com"><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/whitelogo.png"></a></p>
 				<h6><strong>3333 Pennsylvania Ave.<br>
+					Suite 101<br>
 					Lansing, MI 48910<br>
 					(517)614-7756<br>
 					redcedarbirth@gmail.com<br>

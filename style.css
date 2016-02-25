@@ -938,12 +938,16 @@ object {
 	margin: 0 auto;
 	text-align: center;
 	padding-top: 1em;
+	padding-bottom: 10px;
 }
 #site-navigation a {
 	color: rgb(130, 113, 96);
 	text-transform: uppercase;
 	letter-spacing: -1px;
 	padding: 0.7rem .5rem;
+}
+.main-navigation {
+	padding-bottom: 10px;
 }
 .main-navigation ul {
     max-width: 750px;
@@ -958,13 +962,14 @@ object {
 }
 body .button {
 	background: rgb(130, 113, 96);
+	border-radius: 5px;
 }
 .home h3 {
 	text-align: center;
 	color: rgb(130, 113, 96);
 }
 .home h3:hover {
-  color: #E89321;
+  color: #8c8172;
 }
 ul.products img {
 	border-radius: 75%;
@@ -980,7 +985,7 @@ ul.products img {
 	color: white;
 }
 footer {
-	background-image: url('http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/footer.jpg');
+	background-image: url('http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/footer.jpg');
 }
 p.padding {
     padding-top: 2em;
@@ -1000,7 +1005,7 @@ p.padding {
     box-sizing: border-box;
 }
 .fa-2x:hover {
-    color: #f38630;
+    color: #8c8172;
 }
 /*Pages*/
 h1.entry-title,
@@ -1090,3 +1095,10 @@ img.tove {
 .students {
 	margin-top: 80px;
 }
+a {
+	color: #8c8172;
+}
+a:visited {
+	color: #666666;
+}
+

@@ -38,13 +38,13 @@
 		</div>
 		<div class="small-12  medium-6 large-4 columns">
 			<h4>Birth Chat</h4>
-				<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
-				<a href="#" class="button">LEARN MORE</a><br>
+				<p>Birth Chat is a group for women interested in an un-medicated birth. We’ll discuss physical, emotional, cultural, and spiritual aspects of birthing and build resources for achieving your goals. 1st Monday each month (6:30-8pm) at the Willow Tree Family Center</p>
+				<a href="https://www.facebook.com/groups/BirthChat/" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Homebirth Meetup</h4>
-			<p>Lorem ipsum dolor sit amet, ultrices auctor amet, sed facilisis mattis egestas morbi, luctus ante neque nunc diam vitae. Ante aliquam, magna leo, vitae sodales nec rhoncus amet interdum. In ipsum massa aliquet posuere.</p>
-			<a href="#" class="button">LEARN MORE</a><br>
+			<p>Home birth Meet Up is a family friendly gathering to build community around home birth-ers.  This gathering is for ANYONE- those considering home birth, planning home birth, or who have birthed at home.  third sunday of each month (2-5pm) at the Willow Tree Family Center</p>
+			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" class="button">LEARN MORE</a><br>
 		</div>
 	</div>
 	&nbsp;	
