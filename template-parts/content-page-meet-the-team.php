@@ -66,7 +66,7 @@
 		&nbsp;
 		<div class="container-fluid">
 			<div class="row center">
-				<div class="small-12 large-12 columns">
+				<div class="birthing small-12 large-12 columns">
 					<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/meettheteam2.jpg" alt "Birthing Parents"></div>
 				</div>
 			</div>

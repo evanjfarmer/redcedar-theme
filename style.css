@@ -1092,6 +1092,9 @@ h1.page-title {
 img.tove {
 	float: right;
 }
+.birthing {
+	margin-top: 50px;
+}
 .students {
 	margin-top: 80px;
 }
@@ -1099,6 +1102,12 @@ a {
 	color: #8c8172;
 }
 a:visited {
-	color: #E9E7E4;
+	color: #E9E7E4; 
+}
+.community:visited {
+	color: #8C8172;
+}
+.community:hover {
+	color: #936e5c;
 }
 
