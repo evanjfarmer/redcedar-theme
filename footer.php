@@ -26,7 +26,7 @@
 				<h5><strong>Follow us on</strong></h5>
 					<div id="icons">
 					  <a href ="https://www.facebook.com/redcedarbirthandbotanicals/"><i class="fa fa-facebook fa-2x"></i></a>
-					  <a href ="http://www.instagram.com/#"><i class="fa fa-instagram fa-2x"></i></a>
+					  <a href ="http://www.instagram.com/rcb_babes"><i class="fa fa-instagram fa-2x"></i></a>
 					</div>
 				<h5><strong>Stay in the loop across Facebook and Instagram.</strong></h5>
 			Copyright &copy; <?php echo date ('Y');?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>

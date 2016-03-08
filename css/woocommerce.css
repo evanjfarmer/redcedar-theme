@@ -1505,12 +1505,14 @@ body:not(.search-results) .twentysixteen .entry-summary {
 /* Evan's Custom Changes*/
 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
     float: left;
-    margin: 0 5% 1em;
 }
-.woocommerce.columns-3 ul.products li.product {
+.woocommerce.columns-4 ul.products li.product {
     width: 20%;
 }
 .woocommerce div.product .woocommerce-tabs .panel {
     margin: 2em;
     padding: 0;
+}
+.woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count {
+    display: none;
 }
