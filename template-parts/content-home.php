@@ -11,13 +11,13 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 <div class="entry-content">
 	<div class="row">
-  		<div class="home large-6 columns">
+  		<div class="home small-12 large-5 columns">
   			<a href="/midwifery-services"><h3>MIDWIFERY SERVICES</h3></a>
-  			<p>Our home birth care is holistic and family centered. We promote active birthing, minimal interventions, and shared decision making throughout the childbearing year. We would love to sit down with you and talk about your plans</p>
+  			<h5>Our home birth care is holistic and family centered. We promote active birthing, minimal interventions, and shared decision making throughout the childbearing year. We would love to sit down with you and talk about your plans</h5>
   		</div>
-  		<div class="home large-6 columns">
+  		<div class="home small-12 large-5 columns">
   			<a href="/doula-services"><h3>DOULA SERVICES</h3></a>
-  			<p>It is our goal to provide each client with care that is respectful and centered around their choices and needs. Whether birthing at home or in the hospital, we are committed to providing you with evidence based information so that you can take lead in the decision making.</p>
+  			<h5>It is our goal to provide each client with care that is respectful and centered around their choices and needs. Whether birthing at home or in the hospital, we are committed to providing you with evidence based information so that you can take lead in the decision making.</h5>
   		</div>
   	</div>
 	<hr />
@@ -33,18 +33,18 @@
 	<div class="row center">
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Be a Birth Sponsor</h4>
-				<p>Red Cedar Birth is excited to introduce our new <i>Birth Sponsorship Program</i>.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p>
+				<p>Red Cedar Birth is excited to introduce our new <i>Birth Sponsorship Program</i>.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p><br>
 				<a href="/~evanjfar/become-a-birth-sponsor/" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12  medium-6 large-4 columns">
 			<h4>Birth Chat</h4>
 				<p><i>Birth Chat</i> is a group for women interested in an un-medicated birth. We’ll discuss physical, emotional, cultural, and spiritual aspects of birthing and build resources for achieving your goals. 1st Monday each month (6:30-8pm) at the Willow Tree Family Center</p>
-				<a href="https://www.facebook.com/groups/BirthChat/" class="button">LEARN MORE</a><br>
+				<a href="https://www.facebook.com/groups/BirthChat/" target="_blank" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Homebirth Meetup</h4>
 			<p><i>Homebirth Meet Up</i> is a family friendly gathering to build community around home birth-ers.  This gathering is for ANYONE- those considering home birth, planning home birth, or who have birthed at home.  Third Sunday of each month (2-5pm) at the Willow Tree Family Center</p>
-			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" class="button">LEARN MORE</a><br>
+			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" target="_blank" class="button">LEARN MORE</a><br>
 		</div>
 	</div>
 	&nbsp;	
