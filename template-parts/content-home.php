@@ -47,13 +47,24 @@
 			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" target="_blank" class="button">LEARN MORE</a><br>
 		</div>
 	</div>
+	&nbsp;
+	<div class="row">
+		<div class="home baby large-4 columns">
+			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home1.jpg" alt="Baby in Black and White">
+		</div>
+		<div class="large-4 columns">
+			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home3.jpg" alt="Baby Girl Close Up">
+		</div>
+		<div class="home baby large-4 columns">
+			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home4.jpg" alt="Woman with Baby">
+		</div>
+	</div>
 	&nbsp;	
-		<div class="row">
-	  		<?php 
-	  		echo do_shortcode( '[slide-anything id="169"]' );
-	  		?>
-			</div>
-		</div>	
+	<div class="row">
+	  	<?php 
+	  	echo do_shortcode( '[slide-anything id="169"]' );
+	  	?>
+	</div>	
 </div><!-- .entry-content -->
 
 	<footer class="entry-footer">

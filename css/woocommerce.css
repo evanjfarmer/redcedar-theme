@@ -1516,3 +1516,6 @@ body:not(.search-results) .twentysixteen .entry-summary {
 .woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count {
     display: none;
 }
+.woocommerce #content div.product .woocommerce-tabs {
+    display: none;
+}   
