@@ -13,7 +13,7 @@
 	<div class="row">
   		<div class="home small-12 large-5 columns">
   			<a href="/midwifery-services"><h3>MIDWIFERY SERVICES</h3></a>
-  			<h5>Our home birth care is holistic and family centered. We promote active birthing, minimal interventions, and shared decision making throughout the childbearing year. We would love to sit down with you and talk about your plans</h5>
+  			<h5>Our home birth care is holistic and family centered. We promote active birthing, minimal interventions, and shared decision making throughout the childbearing year. We would love to sit down with you and talk about your plans.</h5>
   		</div>
   		<div class="home small-12 large-5 columns">
   			<a href="/doula-services"><h3>DOULA SERVICES</h3></a>
@@ -49,13 +49,16 @@
 	</div>
 	&nbsp;
 	<div class="row">
-		<div class="home baby large-4 columns">
+		<div class="large-3 columns">
 			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home1.jpg" alt="Baby in Black and White">
 		</div>
-		<div class="large-4 columns">
+		<div class="large-3 columns">
+			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home2.jpg" alt="Boy Holding Baby">
+		</div>
+		<div class="large-3 columns">
 			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home3.jpg" alt="Baby Girl Close Up">
 		</div>
-		<div class="home baby large-4 columns">
+		<div class="large-3 columns">
 			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home4.jpg" alt="Woman with Baby">
 		</div>
 	</div>
