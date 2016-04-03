@@ -20,9 +20,9 @@
 				<h6><strong>3333 Pennsylvania Ave.<br>
 					Suite 101<br>
 					Lansing, MI 48910<br>
-					(517)614-7756<br>
+					(517) 614-7756<br>
 					redcedarbirth@gmail.com<br>
-					Fax# (810)222-1209</h6></strong>
+					Fax# (810) 222-1209</h6></strong>
 				<h5><strong>Follow us on</strong></h5>
 					<div id="icons">
 					  <a href ="https://www.facebook.com/redcedarbirthandbotanicals/"><i class="fa fa-facebook fa-2x"></i></a>

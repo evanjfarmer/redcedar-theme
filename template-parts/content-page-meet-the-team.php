@@ -12,6 +12,7 @@
 	<header class="entry-header">
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
+&nbsp;
 <?php if ( function_exists( 'soliloquy' ) ) { soliloquy( 'meet-the-team-slider', 'slug' ); }?>
 	<div class="entry-content">
 		<div class="container-fluid">

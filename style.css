@@ -1026,18 +1026,6 @@ h1.page-title {
 .woocommerce div.product .product_title {
 	margin-right: 13em;
 }
-.doula.hero {
-	background-image: url('http://littleappledoulas.com/wp-content/uploads/2015/05/labor-support-doula.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    border-radius: 1%;
-    width: 100% !important;
-    height: 500px;
-    z-index: 0;
-}
 .doulas {
 	padding: 80px;
 }
@@ -1109,9 +1097,6 @@ a:visited {
 }
 .community:hover {
 	color: #936e5c;
-}
-.home.baby {
-	margin-top: 20px;
 }
 .simcal-calendar {
 	width: 50%;

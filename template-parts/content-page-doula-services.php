@@ -14,8 +14,11 @@
 	<div class="row">
   		<div class="doula services small-12 large-8 columns">
   			<h4>Doula Services</h4>
-  			<h5><strong><i>Red Cedar Birth</i></strong></h5> <p>is pleased to work cohesively amongst the best obstetricians and nurses in the greater Lansing area, and we are proud to be a member of the <a class="community" href="http://www.willowtreefamily.com/lansing-doula-network">Lansing Doula Network</a>. Our team has personally met with several local care providers and the staff at our area hospitals to collaborate on making you the center of this experience. The providers in our area have been very welcoming and we look forward to the positive impact this will have on our clients.</p><br> <p>Your care provider and nurse are focused on a healthy mother and healthy baby. Your doula is focused on  your goals and desires for this birth.  You can take comfort in knowing your providers and your doula share the same goal of making your birth experience the best it can be. We specialize in unbiased support for all birthing choices. Your doula is there to support you and educate you on your choices so you feel empowered, strong and capable of deciding what is best for you and your baby. No matter what you decide for your birth, your doula will be there encouraging you and your partner.</p><br>
-  			<h5><p><strong>You can expect your doula team to:</strong></p>
+  			&nbsp;
+  			<h5><strong><i>Red Cedar Birth</i></strong> is pleased to work cohesively amongst the best obstetricians and nurses in the greater Lansing area, and we are proud to be a member of the <a class="community" href="http://www.willowtreefamily.com/lansing-doula-network">Lansing Doula Network</a>. Our team has personally met with several local care providers and the staff at our area hospitals to collaborate on making you the center of this experience. The providers in our area have been very welcoming and we look forward to the positive impact this will have on our clients.<br>
+  				&nbsp;
+  				<p>Your care provider and nurse are focused on a healthy mother and healthy baby. Your doula is focused on  your goals and desires for this birth.  You can take comfort in knowing your providers and your doula share the same goal of making your birth experience the best it can be. We specialize in unbiased support for all birthing choices. Your doula is there to support you and educate you on your choices so you feel empowered, strong and capable of deciding what is best for you and your baby. No matter what you decide for your birth, your doula will be there encouraging you and your partner.<br></p>
+  			<p><strong>You can expect your doula team to:</strong></p>
   				<ul>
 				<li><strong>Be a personal resource</strong> throughout your pregnancy. Your doula team  is here to provide you with answers to questions and additional information on a large variety of subjects.</li><br>
 				<li><strong>Offer generous  phone and email support</strong> as well as any professional referrals into the community as needed.</li><br>
@@ -28,12 +31,12 @@
 						<li>Additional visits or Lactation Support are available a la carte. </li></h5>
 					</ul>
 				</ul>
-				<center><a href="http://37.60.225.248/~evanjfar/product/doula-services/" class="button">Purchase Now</a><a href="/contact/" class="button">Contact Us</a></center>
+				<center><a href="/product/doula-services/" class="button">Purchase Now</a><a href="/contact/" class="button">Contact Us</a></center>
   				<hr />
   				&nbsp;
-  				<h5><strong><i>Bereavement Doula Support</i></strong><p>The pain of losing a child, no matter what age, is unbearable. Your world comes to a crashing halt and no words can convey the pain and sorrow you are experiencing. Whether you have been told your baby will have a limited life expectancy, will be stillborn, or you have experienced a miscarriage, our trained and compassionate doulas are here to walk through this with you.</p><br> <p>Give yourself the space and time to grieve and allow us to care for you during this profound loss. Reach out to us, or direct a family member to do so for you, and a trained bereavement doula with join you at any stage. This service is funded by donations, <a href="/~evanjfar/become-a-birth-sponsor/">click here</a> to donate or <a href="/~evanjfar/contact">contact us</a> learn more about our programs.</p></h5>
+  				<h5><strong><i>Bereavement Doula Support</i></strong><p>The pain of losing a child, no matter what age, is unbearable. Your world comes to a crashing halt and no words can convey the pain and sorrow you are experiencing. Whether you have been told your baby will have a limited life expectancy, will be stillborn, or you have experienced a miscarriage, our trained and compassionate doulas are here to walk through this with you.</p><br> <p>Give yourself the space and time to grieve and allow us to care for you during this profound loss. Reach out to us, or direct a family member to do so for you, and a trained bereavement doula with join you at any stage. This service is funded by donations, <a class="community" href="/become-a-birth-sponsor/">CLICK HERE</a> to donate or <a class="community" href="/contact">CONTACT US</a> learn more about our programs.</p></h5>
   		</div>		
-  		<div class="doula image small-12 large-4 columns">
+  		<div class="doulas image small-12 large-4 columns">
 	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula1.jpg" alt="Man with Baby"></div><br>
 	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula2.jpg" alt="People Gathered Around Mother"></div><br>
 	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula3.jpg" alt="Man Looking at Baby"></div><br>

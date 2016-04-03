@@ -34,7 +34,7 @@
 		<div class="small-12 medium-6 large-4 columns">
 			<h4>Be a Birth Sponsor</h4>
 				<p>Red Cedar Birth is excited to introduce our new <i>Birth Sponsorship Program</i>.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p><br>
-				<a href="/~evanjfar/become-a-birth-sponsor/" class="button">LEARN MORE</a><br>
+				<a href="/become-a-birth-sponsor/" class="button">LEARN MORE</a><br>
 		</div>
 		<div class="small-12  medium-6 large-4 columns">
 			<h4>Birth Chat</h4>
