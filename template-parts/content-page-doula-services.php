@@ -37,11 +37,11 @@
   				<h5><strong><i>Bereavement Doula Support</i></strong><p>The pain of losing a child, no matter what age, is unbearable. Your world comes to a crashing halt and no words can convey the pain and sorrow you are experiencing. Whether you have been told your baby will have a limited life expectancy, will be stillborn, or you have experienced a miscarriage, our trained and compassionate doulas are here to walk through this with you.</p><br> <p>Give yourself the space and time to grieve and allow us to care for you during this profound loss. Reach out to us, or direct a family member to do so for you, and a trained bereavement doula with join you at any stage. This service is funded by donations, <a class="community" href="/become-a-birth-sponsor/">CLICK HERE</a> to donate or <a class="community" href="/contact">CONTACT US</a> learn more about our programs.</p></h5>
   		</div>		
   		<div class="doulas image small-12 large-4 columns">
-	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula1.jpg" alt="Man with Baby"></div><br>
-	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula2.jpg" alt="People Gathered Around Mother"></div><br>
-	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula3.jpg" alt="Man Looking at Baby"></div><br>
-	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/01/doula-4.jpg" alt="Baby Close Up"></div><br>
-	  			<div><img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/02/doula-5.jpg" alt="Helpers Around Mother"></div>
+	  			<div><img src="/wp-content/uploads/2016/04/doula1.jpg" alt="Man with Baby"></div><br>
+	  			<div><img src="/wp-content/uploads/2016/04/doula2.jpg" alt="People Gathered Around Mother"></div><br>
+	  			<div><img src="/wp-content/uploads/2016/04/doula3.jpg" alt="Man Looking at Baby"></div><br>
+	  			<div><img src="/wp-content/uploads/2016/04/doula-4.jpg" alt="Baby Close Up"></div><br>
+	  			<div><img src="/wp-content/uploads/2016/04/doula-5.jpg" alt="Helpers Around Mother"></div>
 	  	</div>
   	</div><br>
   	<div class="row">

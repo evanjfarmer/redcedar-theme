@@ -50,16 +50,16 @@
 	&nbsp;
 	<div class="row">
 		<div class="large-3 columns">
-			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home1.jpg" alt="Baby in Black and White">
+			<img src="/wp-content/uploads/2016/04/home1.jpg" alt="Baby in Black and White">
 		</div>
 		<div class="large-3 columns">
-			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home2.jpg" alt="Boy Holding Baby">
+			<img src="/wp-content/uploads/2016/04/home2.jpg" alt="Boy Holding Baby">
 		</div>
 		<div class="large-3 columns">
-			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home3.jpg" alt="Baby Girl Close Up">
+			<img src="/wp-content/uploads/2016/04/home3.jpg" alt="Baby Girl Close Up">
 		</div>
 		<div class="large-3 columns">
-			<img src="http://37.60.225.248/~evanjfar/wp-content/uploads/2016/03/home4.jpg" alt="Woman with Baby">
+			<img src="/wp-content/uploads/2016/04/home4.jpg" alt="Woman with Baby">
 		</div>
 	</div>
 	&nbsp;	
