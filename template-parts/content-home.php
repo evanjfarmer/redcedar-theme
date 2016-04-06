@@ -21,7 +21,7 @@
   		</div>
   	</div>
 	<hr />
-	<a href="/botanicals"><h3 class="home">BOTANICALS SHOP</h3></a><br>
+	<a href="/shop"><h3 class="home">BOTANICALS SHOP</h3></a><br>
 		<div class="row">
 			<ul class="products small-10 large-12 columns">
 				<?php
