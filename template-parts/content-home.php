@@ -22,13 +22,13 @@
   	</div>
 	<hr />
 	<a href="/shop"><h3 class="home">BOTANICALS SHOP</h3></a><br>
-		<div class="row center">
-			<ul class="products small-9 large-12 columns">
-				<?php
-				echo do_shortcode( '[recent_products per_page="4" columns="4"]' );
-				?>
-			</ul><!--/.products-->
-		</div>
+		<div class="row">
+ 			<ul class="products small-10 large-12 columns">
+  				<?php
+  				echo do_shortcode( '[recent_products per_page="4" columns="4"]' );
+  				?>
+  			</ul><!--/.products-->
+  		</div>
 	<hr />
 	<div class="row center">
 		<div class="home small-12 medium-6 large-4 columns">
@@ -63,11 +63,9 @@
 		</div>
 	</div>
 	&nbsp;	
-	<div class="row">
 	  	<?php 
 	  	echo do_shortcode( '[slide-anything id="233"]' );
-	  	?>
-	</div>	
+	  	?>	
 </div><!-- .entry-content -->
 
 	<footer class="entry-footer">
