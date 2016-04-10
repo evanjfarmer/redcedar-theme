@@ -21,14 +21,11 @@
 					Suite 101<br>
 					Lansing, MI 48910<br>
 					(517) 614-7756<br>
-					redcedarbirth@gmail.com<br>
-					Fax# (810) 222-1209</h6></strong>
+					Fax# (810) 222-1209</h6></strong><br>
 				<h5><strong>Follow us on</strong></h5>
-					<div id="icons">
 					  <a href ="https://www.facebook.com/redcedarbirthandbotanicals/"><i class="fa fa-facebook fa-2x"></i></a>
 					  <a href ="http://www.instagram.com/rcb_babes"><i class="fa fa-instagram fa-2x"></i></a>
-					</div>
-				<h5><strong>Stay in the loop across Facebook and Instagram.</strong></h5>
+				<h5><strong>Stay in the loop across Facebook and Instagram.</strong></h5><br>
 			Copyright &copy; <?php echo date ('Y');?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 			<span class="sep"> | </span>
 			<?php printf( esc_html__( 'Website %1$s by %2$s', 'redcedar-theme' ), 'built', '<a href="http://evanjfarmer.com" rel="designer">evanjfarmer webdev</a>' ); ?>

@@ -979,10 +979,15 @@ ul.products img {
 }
 .site-info h5 {
 	color: white;
-	padding-top: 1em;
 }
 .site-info h6 {
 	color: white;
+}
+.site-info a {
+	color: #f1f0ee;
+}
+.site-info a:hover {
+	color: #49372e;
 }
 footer {
 	background-image: url('http://redcedarbirth.com/wp-content/uploads/2016/04/footer.jpg');
@@ -1101,4 +1106,7 @@ a:visited {
 .simcal-calendar {
 	width: 50%;
 	margin: auto;
+}
+.home div {
+	margin-bottom: 20px;
 }

@@ -49,17 +49,17 @@
 	</div>
 	&nbsp;
 	<div class="row">
-		<div class="large-3 columns">
-			<img src="/wp-content/uploads/2016/04/home1.jpg" alt="Baby in Black and White">
+		<div class="home large-3 small-6 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home1.jpg" alt="Baby in Black and White">
 		</div>
-		<div class="large-3 columns">
-			<img src="/wp-content/uploads/2016/04/home2.jpg" alt="Boy Holding Baby">
+		<div class="home large-3 small-6 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home2.jpg" alt="Boy Holding Baby">
 		</div>
-		<div class="large-3 columns">
-			<img src="/wp-content/uploads/2016/04/home3.jpg" alt="Baby Girl Close Up">
+		<div class="large-3 small-6 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home3.jpg" alt="Baby Girl Close Up">
 		</div>
-		<div class="large-3 columns">
-			<img src="/wp-content/uploads/2016/04/home4.jpg" alt="Woman with Baby">
+		<div class="large-3 small-6 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home4.jpg" alt="Woman with Baby">
 		</div>
 	</div>
 	&nbsp;	
