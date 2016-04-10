@@ -22,8 +22,8 @@
   	</div>
 	<hr />
 	<a href="/shop"><h3 class="home">BOTANICALS SHOP</h3></a><br>
-		<div class="row">
-			<ul class="products small-10 large-12 columns">
+		<div class="row center">
+			<ul class="products small-9 large-12 columns">
 				<?php
 				echo do_shortcode( '[recent_products per_page="4" columns="4"]' );
 				?>
@@ -31,17 +31,17 @@
 		</div>
 	<hr />
 	<div class="row center">
-		<div class="small-12 medium-6 large-4 columns">
+		<div class="home small-12 medium-6 large-4 columns">
 			<h4>Be a Birth Sponsor</h4>
 				<p>Red Cedar Birth is excited to introduce our new <i>Birth Sponsorship Program</i>.  Did you love your doula or midwife? Now you can help other women in our community experience the same support and encouragement that got you there.</p><br>
 				<a href="/become-a-birth-sponsor/" class="button">LEARN MORE</a><br>
 		</div>
-		<div class="small-12  medium-6 large-4 columns">
+		<div class="home small-12  medium-6 large-4 columns">
 			<h4>Birth Chat</h4>
 				<p><i>Birth Chat</i> is a group for women interested in an un-medicated birth. We’ll discuss physical, emotional, cultural, and spiritual aspects of birthing and build resources for achieving your goals. 1st Monday each month (6:30-8pm) at the Willow Tree Family Center</p>
 				<a href="https://www.facebook.com/groups/BirthChat/" target="_blank" class="button">LEARN MORE</a><br>
 		</div>
-		<div class="small-12 medium-6 large-4 columns">
+		<div class="home small-12 medium-6 large-4 columns">
 			<h4>Homebirth Meetup</h4>
 			<p><i>Homebirth Meet Up</i> is a family friendly gathering to build community around home birth-ers.  This gathering is for ANYONE- those considering home birth, planning home birth, or who have birthed at home.  Third Sunday of each month (2-5pm) at the Willow Tree Family Center</p>
 			<a href="https://www.facebook.com/groups/CapitalAreaHomeBirth/" target="_blank" class="button">LEARN MORE</a><br>
@@ -49,17 +49,17 @@
 	</div>
 	&nbsp;
 	<div class="row">
-		<div class="home large-3 small-6 columns">
-			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home1.jpg" alt="Baby in Black and White">
+		<div class="home small-6 large-3 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home1.jpg" alt="Baby in Black and White" width="500" height="500" />
 		</div>
-		<div class="home large-3 small-6 columns">
-			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home2.jpg" alt="Boy Holding Baby">
+		<div class="home small-6 large-3 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home2.jpg" alt="Boy Holding Baby" width="500" height="500" />
 		</div>
-		<div class="large-3 small-6 columns">
-			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home3.jpg" alt="Baby Girl Close Up">
+		<div class="home small-6 large-3 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home3.jpg" alt="Baby Girl Close Up" width="500" height="500" />
 		</div>
-		<div class="large-3 small-6 columns">
-			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home4.jpg" alt="Woman with Baby">
+		<div class="home small-6 large-3 columns">
+			<img src="http://redcedarbirth.com/wp-content/uploads/2016/04/home4.jpg" alt="Woman with Baby" width="500" height="500" />
 		</div>
 	</div>
 	&nbsp;	
