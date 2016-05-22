@@ -51,7 +51,7 @@
   	</div>
 	<div class="row">
   		<?php 
-  		echo do_shortcode( '[slide-anything id="171"]' );
+  		echo do_shortcode( '[slide-anything id="235"]' );
   		?>
 		</div>
 	</div>	
