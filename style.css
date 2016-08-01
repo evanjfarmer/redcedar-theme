@@ -1110,3 +1110,12 @@ a:visited {
 .home div {
 	margin-bottom: 20px;
 }
+.primary-mobile-nav {
+display: none;
+}
+@media (max-width: 480px){
+.main-navigation .primary-nav {
+display: none;
+}
+.primary-mobile-nav {
+display: block;
