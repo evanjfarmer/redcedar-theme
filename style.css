@@ -1114,7 +1114,7 @@ a:visited {
 display: none;
 }
 @media (max-width: 480px){
-.main-navigation .primary-nav {
+.primary-nav {
 display: none;
 }
 .primary-mobile-nav {
